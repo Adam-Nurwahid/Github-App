@@ -100,7 +100,7 @@ class MainActivity : AppCompatActivity(), Conditions<List<AppEntity>> {
             }
         }
     }
-
+//tes
     override fun onLoading() {
         binding.initSearch.apply {
             progressBar.visibility = visible
