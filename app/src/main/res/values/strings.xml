@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubFinal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="search_message">Ayo cari pengguna!</string>
+    <string name="search_hint">Temukan Pengguna</string>
+    <string name="user_not_found">Upps, sepertinya pengguna yang anda cari \n tidak tersedia</string>
+    <string name="no_favorites_user">Maaf, tidak ada pengguna favorit</string>
+    <string name="followers_not_found">%s tidak memiliki pengikut</string>
+    <string name="following_not_found">%s tidak mengikuti siapapun</string>
+    <string name="favorites">Favorit</string>
+    <string name="favorites_title">Daftar Pengguna Favorite</string>
+    <string name="settings">Pengaturan</string>
+    <string name="no_internet">Tidak ada internet</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="searchbar_hint">cari user</string>
+</resources>
